@@ -1,0 +1,19 @@
+/* styles.css */
+
+/* Input text style */
+input[type="text"] {
+    padding: 8px;
+    margin-right: 8px;
+  }
+  
+  /* Button style */
+  button {
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  /* Paragraph style for display text */
+  p {
+    margin-top: 16px;
+  }
+  
